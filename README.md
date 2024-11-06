@@ -21,5 +21,13 @@ Repositori ini berisi rancangan <b>sistem pemantauan kinerja pembelajaran siswa<
   <li><b>use-case</b>: berisi berkas-berkas desain use-case diagrams.</li>
   <li><b>activity</b>: berisi berkas-berkas desain activity diagrams.</li>
   <li><b>swimlane</b>: berisi berkas-berkas desain swimlane diagrams.</li>
+  <li><b>Metodology</b>: Tugas 1 Pak hasan.</li>
 </ul>
+
+## Informasi anggota kelompok
+<ol>
+  <li><b>Dhani Aditya Putra Efendi</b> (22031554038)</li>
+  <li><b>Azaria Syahla Fitan Adibah</b> (22031554019)</li>
+  <li><b>Nur Halizah Amrita</b> (22031554039)</li>
+</ol>
 
