@@ -21,7 +21,7 @@ Repositori ini berisi rancangan <b>sistem pemantauan kinerja pembelajaran siswa<
   <li><b>use-case</b>: berisi berkas-berkas desain use-case diagrams.</li>
   <li><b>activity</b>: berisi berkas-berkas desain activity diagrams.</li>
   <li><b>swimlane</b>: berisi berkas-berkas desain swimlane diagrams.</li>
-  <li><b>Metodology</b>: Tugas 1 Pak hasan.</li>
+  <li><b>Tugas</b>: berisi berkas-berkas tugas yang diberikan kepada bapak dosen.</li>
 </ul>
 
 ## Informasi anggota kelompok
