@@ -1,13 +1,16 @@
 # EduDOExam - Aplikasi Pemantau Keterlibatan dan Fokus Siswa Berbasis AI untuk Pembelajaran Jarak Jauh
 
 ## 1. Latar Belakang:
+<p align="justify">
 Perkembangan teknologi informasi dan komunikasi telah membawa perubahan signifikan dalam bidang pendidikan. Salah satu inovasi penting adalah penerapan ujian online yang memungkinkan siswa untuk mengakses soal dari mana saja dan kapan saja. Meskipun fleksibel dan efisien, guru sering kesulitan memantau keterlibatan emosional dan fokus siswa, terutama dalam pembelajaran jarak jauh. Tanpa pemahaman menyeluruh tentang kondisi mental siswa, interaksi menjadi kurang efektif, dan proses pembelajaran pun tidak maksimal. EduDOExam hadir sebagai solusi untuk meningkatkan kinerja pembelajaran siswa dengan memanfaatkan teknologi AI. Aplikasi ini memungkinkan pemantauan kondisi emosional siswa selama ujian, memberikan informasi penting yang dapat membantu guru memahami dan merespons kebutuhan siswa dengan lebih baik.
 
 ## 2. Ruang Lingkup dan Batasan:
 ### - Ruang Lingkup:
+<p align="justify">
 EduDOExam adalah aplikasi mobile berbasis AI yang dirancang untuk mendukung pembelajaran jarak jauh di tingkat SMA di Indonesia. Fokus pada tingkat SMA ini didasarkan pada implementasi sistem pembelajaran jarak jauh yang lebih umum diterapkan pada jenjang ini. Aplikasi ini hanya dapat diakses melalui perangkat smartphone, yang lebih terjangkau dan umum dimiliki oleh siswa SMA dibandingkan laptop. Setiap sesi ujian dibatasi untuk maksimal 40 siswa per kelas untuk menghindari masalah teknis seperti server overload dan konektivitas yang tidak stabil.
 
 ### - Batasan:
+<p align="justify">
 Aplikasi ini terbatas pada penggunaan smartphone dan tidak dapat diakses melalui perangkat lain seperti laptop. Fitur deteksi emosi hanya dapat berfungsi jika kamera perangkat aktif. Jika izin akses kamera tidak diberikan, fitur ini tidak akan tersedia bagi siswa. Data kinerja siswa, termasuk grafik performa, disimpan di cloud yang memerlukan biaya penyimpanan. Kenaikan jumlah pengguna dapat meningkatkan biaya operasional, sehingga diperlukan opsi pembiayaan tambahan atau model premium untuk mendukung penyimpanan yang lebih besar.
 
 ## 3. Fitur yang Didapat oleh Siswa dan Guru:
